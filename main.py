@@ -9,7 +9,7 @@ def main():
     }
     
     payload = {
-      "content": "!d bump"
+      "content": "/d bump"
     }
     
     while True:
